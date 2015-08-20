@@ -2,6 +2,13 @@
 
 Build Log: https://travis-ci.org/rad1o/f1rmware
 
+# Binary Branch
+
+to simplify flashing, this branch contains the compiled binary of ccccmaze
+
+copy it to the rad1o and add the csm-files as well
+
+
 # rad1o
 
 This is the f1rmware of the CCCamp 2015 radio badge.
